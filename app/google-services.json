@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "786178475189",
+    "firebase_url": "https://whatisthis-affb9.firebaseio.com",
+    "project_id": "whatisthis-affb9",
+    "storage_bucket": "whatisthis-affb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786178475189:android:11dd3c7edb4f7ae9",
+        "android_client_info": {
+          "package_name": "haicku.com.whatisthis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786178475189-9c00sl5g8hveffkklevgn9uu8e01ebgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw1NPMAWgGlYIMF2Uw8pF5ax_4OrBzvxs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
